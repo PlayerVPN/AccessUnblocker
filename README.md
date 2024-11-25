@@ -1,3 +1,3 @@
 # AccessUnblocker-INSANE
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/FlixifyTVisbackformoregithub/AccessUnblocker-INSANE)
+A new fast, improved web proxy, taking the lead!
