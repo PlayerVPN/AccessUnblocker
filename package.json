@@ -1,0 +1,16 @@
+{
+  "name": "access-unlocker",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node setup.js && node server.js",
+    "start": "node setup.js && node server.js"
+  },
+  "dependencies": {
+    "@titaniumnetwork-dev/ultraviolet": "^1.0.11",
+    "@tomphttp/bare-server-node": "^2.0.1",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}
